@@ -1,6 +1,6 @@
 ---
 title: "Ketan Lambat"
-tag: "the_alpha.eye"
+tag: "the_alpha.eye | Oh Yeah !"
 github: "ketan-lambat"
 linkedin: "in/ketan-lambat"
 twitter: "KetanLambat"
